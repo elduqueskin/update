@@ -1,1 +1,1 @@
-2.5#https://raw.githubusercontent.com/elduqueskin/skyline/refs/heads/main/enigma2-plugin-skins-Skyline_all.ipk
+2.5#https://raw.githubusercontent.com/elduqueskin/update/refs/heads/main/skylineversion.txt
