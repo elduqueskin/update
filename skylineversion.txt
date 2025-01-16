@@ -1,1 +1,1 @@
-2.0#https://raw.githubusercontent.com/elduqueskin/update/refs/heads/main/enigma2-plugin-skins-Skyline_all.ipk
+2.8.1#https://raw.githubusercontent.com/elduqueskin/update/refs/heads/main/enigma2-plugin-skins-Skyline_all.ipk
